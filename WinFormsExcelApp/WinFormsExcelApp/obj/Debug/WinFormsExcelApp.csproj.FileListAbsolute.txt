@@ -1,0 +1,11 @@
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\bin\Debug\WinFormsExcelApp.exe.config
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\bin\Debug\WinFormsExcelApp.exe
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\bin\Debug\WinFormsExcelApp.pdb
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.csprojAssemblyReference.cache
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.csproj.ResolveComReference.cache
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.Form1.resources
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.Properties.Resources.resources
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.csproj.GenerateResource.cache
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.csproj.CoreCompileInputs.cache
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.exe
+C:\Users\manira04\source\repos\WinFormsExcelApp\WinFormsExcelApp\obj\Debug\WinFormsExcelApp.pdb
